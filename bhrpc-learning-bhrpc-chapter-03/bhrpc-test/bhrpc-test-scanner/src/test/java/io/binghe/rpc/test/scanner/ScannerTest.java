@@ -14,6 +14,8 @@ public class ScannerTest {
     public void testScannerClassNameList() throws Exception {
         List<String> classNameList = ClassScanner.getClassNameList("io.binghe.rpc.test.scanner");
         classNameList.forEach(System.out::println);
+        System.out.println("nihao");
+        System.out.println("nihao");
     }
 
     @Test
