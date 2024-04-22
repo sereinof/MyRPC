@@ -16,6 +16,7 @@ public class ScannerTest {
         classNameList.forEach(System.out::println);
         System.out.println("nihao");
         System.out.println("nihao");
+        System.out.println("nihao");
     }
 
     @Test
